@@ -10,7 +10,7 @@ fvfdsdsrgergdsad
     public static function getTpl()
     {
         static $tpl = NULL;
-        if (is_null($tpl))
+        if (is_null($tpl))dwadwadwadwadwa
         {
             require_once( ROOT_PATH . 'common/libs/Smarty-3.1.13/Smarty.class.php' );
             $tpl = new Smarty();
