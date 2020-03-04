@@ -2,7 +2,7 @@
 
 class App
 {
-fvfdsdsrgerg
+fvfdsdsrgergdsad
     /**
     * 获取smarty对象
     * @return Smarty
